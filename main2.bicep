@@ -79,6 +79,7 @@ resource funcApp1 'Microsoft.Web/sites@2023-12-01' = {
           value: 'function-application-1'
         }
       ]
+      linuxFxVersion: 'Python|3.11'
     }
   }
 }
@@ -146,6 +147,7 @@ resource funcApp2 'Microsoft.Web/sites@2023-12-01' = {
           value: 'function-application-2'
         }
       ]
+      linuxFxVersion: 'Python|3.11'
     }
   }
 }

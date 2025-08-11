@@ -75,6 +75,7 @@ resource funcApp1 'Microsoft.Web/sites@2023-12-01' = {
           value: applicationInsights.properties.ConnectionString
         }
       ]
+      linuxFxVersion: 'Python|3.11'
     }
   }
 }
@@ -138,6 +139,7 @@ resource funcApp2 'Microsoft.Web/sites@2023-12-01' = {
           value: applicationInsights.properties.ConnectionString
         }
       ]
+      linuxFxVersion: 'Python|3.11'
     }
   }
 }
