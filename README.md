@@ -97,6 +97,7 @@ az group delete --name rg-functions-advanced --yes
 - [App settings reference for Azure Functions]
 - [Configure monitoring for Azure Functions]
 - [Connection strings in Application Insights]
+- [In bicep, how to property and securly set `hidden-link` in tags?]
 - [What does "hidden-link:" mean in Azure Resource Manager Tags]
 - [Application Insights の概要 - OpenTelemetry の可観測性]
 - [Cloud Role Name の設定方法]
@@ -104,6 +105,7 @@ az group delete --name rg-functions-advanced --yes
 [App settings reference for Azure Functions]: <https://learn.microsoft.com/en-us/azure/azure-functions/functions-app-settings>
 [Configure monitoring for Azure Functions]: <https://learn.microsoft.com/en-us/azure/azure-functions/configure-monitoring>
 [Connection strings in Application Insights]: <https://learn.microsoft.com/en-us/azure/azure-monitor/app/connection-strings>
+[In bicep, how to property and securly set `hidden-link` in tags?]: <https://learn.microsoft.com/en-us/answers/questions/1804490/in-bicep-how-to-property-and-securly-set-hidden-li>
 [What does "hidden-link:" mean in Azure Resource Manager Tags]: <https://stackoverflow.com/questions/38578122/what-does-hidden-link-mean-in-azure-resource-manager-tags>
 [Application Insights の概要 - OpenTelemetry の可観測性]: <https://learn.microsoft.com/ja-jp/azure/azure-monitor/app/app-insights-overview>
 [Cloud Role Name の設定方法]: <https://docs.microsoft.com/ja-jp/azure/azure-monitor/app/app-map?tabs=net#set-or-override-cloud-role-name>
